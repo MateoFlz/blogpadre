@@ -14,9 +14,10 @@ body{
 }
 
 #cabecera{
-    background-color: rgb(44, 78, 172);
+    background-color: rgb(251, 103, 10);
     box-shadow: inset;
     color: black;
     height: 50;
     font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
 }
